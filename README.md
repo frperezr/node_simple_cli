@@ -24,10 +24,10 @@ node_cli --help
 ```
 to see the features.
 
-### PD: if you change the name of the cli, use your custom name instead of node_cli
-
 8) in the case you get 'permission denied: node_cli' from the command shell, go to '/usr/local/bin' and type
 ```
 chmod +x node_cli
 ```
 9) enjoy!
+
+### PD: if you change the name of the cli, use your custom name instead of node_cli
