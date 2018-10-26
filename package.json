@@ -1,0 +1,16 @@
+{
+  "name": "node_cli",
+  "version": "1.0.0",
+  "description": "simple node cli with crud operations",
+  "main": "index.js",
+  "author": "Francisco Javier Pérez Rodríguez",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": "./lib/index.js",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "dotenv": "^6.1.0",
+    "inquirer": "^6.2.0",
+    "mongoose": "^5.3.7"
+  }
+}
