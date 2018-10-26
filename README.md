@@ -9,11 +9,12 @@ This is a simple Command Line Tool that allows users to create, read and manage 
 ```
 DB_PATH=foo
 ```
-5) run
+5) the default name of the cli is 'node_cli', if you want to change it, just change the name in package.json
+6) run
 ```
 yarn link
 ```
-6) type
+7) type
 ```
 node_cli -h
 ```
@@ -23,8 +24,8 @@ node_cli --help
 ```
 to see the features.
 
-7) in the case you get 'permission denied: node_cli' from the command shell, go to '/usr/local/bin' and type
+8) in the case you get 'permission denied: node_cli' from the command shell, go to '/usr/local/bin' and type
 ```
 chmod +x node_cli
 ```
-8) enjoy!
+9) enjoy!
