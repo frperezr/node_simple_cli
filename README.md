@@ -17,6 +17,7 @@ or
 node_cli --help
 ```
 to see the features.
+
 5) in the case you get 'permission denied: node_cli' from the command shell, go to '/usr/local/bin' and type
 ```
 chmod +x node_cli
